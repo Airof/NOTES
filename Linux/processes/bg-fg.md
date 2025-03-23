@@ -24,3 +24,5 @@ jobs
 kill PID # use process ID
 kill %1 # use the job number
 ```
+
+see also [[nohup.md]]
