@@ -13,3 +13,6 @@ all simulation are in Gazebo
 the simulation language is python
 for the practical its either CPP or python 
 for faster system and less latency **WASM** can be usded (optional)
+
+## language
+Better use `Haxe` it can be compiled to cpp, python, java, etc
