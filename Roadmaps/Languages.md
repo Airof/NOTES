@@ -10,6 +10,12 @@
     - Practice with a **kana notebook** or **workbook** like:
         - _Kana Workbook_ by Anne Matsumoto Stewart
         - Or just make your own practice grids.
+
+- **books**
+	- [hiragana mini stories](https://crunchynihongo.com/hiragana-reading-practice/?utm_source=chatgpt.com)
+	-  
+	- 
+
 ---
 
 ### 📗 **Step 2: Vocabulary and Grammar (Beginner → N5/N4)**
@@ -47,29 +53,7 @@ You know some kanji—start growing this daily.
         - Stroke order (important)
 
 ---
+### ✍️ **step 5: training materials**
 
-### 🗣️ **Step 4: Shadowing + Listening Practice**
-
-Since you understand anime, try shadowing (repeat aloud after hearing a line).
-
-- Pick a short anime scene (with subtitles)
-- Pause line by line and **repeat the Japanese out loud**
-- Optional: write down the sentence and translate it
-
----
-
-### ✍️ **Step 5: Writing Practice**
-
-Once you’re comfortable with kana and basic grammar, start **journaling** in Japanese.
-
-- Write 3–5 lines per day about your day or favorite anime
-- Use a dictionary (like Takoboto or a printed one)
-- Try to **use kanji you’ve learned**
-
----
-
-### 🧾 Optional Supplies
-
-- **Graph paper notebook** for kanji (squares help keep your writing neat)
-- **Colored pens** (highlight particles, verb endings, kanji)
-- **Flashcards box** (write vocab/kanji on one side, reading/meaning on back)
+- [Tadoku Graded Reader](https://www.reddit.com/r/LearnJapanese/comments/19bitqy/2024_updated_free_tadoku_graded_reader_pdfs_2681/?utm_source=chatgpt.com) (start from level 0)
+- 
