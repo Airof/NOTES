@@ -66,6 +66,17 @@ GPT:
 
 ## course
 
+- <**stdint.h**>
+	- Fixed-width integer types: `u_intx_t`\ `intx_t`
+	- Minimum-width integer types: `int_least8_t`
+	- Fastest integer types: `int_fast8_t`
+	- Pointer-Capable Integer Types: 
+		- `intptr_t`
+		- `uintptr_t`
+	- other
+		- `size_t` 
+		- `ptrdiff_t`
+		- `void*`
 - **ESP fundamentals**
 - **CLI Libraries** **ncurses (PDCurses for Windows)**
 - **GUI**?
