@@ -1,4 +1,10 @@
 
+# Prerequisite
+- what are programming languages 
+- what are compilers
+- CGG/CLANG
+- NINJA/CMAKE
+
 # C Fundamentals
 
 ## course
@@ -58,6 +64,7 @@ GPT:
 ### 5. 
 - **multi-file structure**
 - **STDIN**/**STDOUT**
+- **Static keyword**
 
 ## Project
 
